@@ -1,1 +1,2 @@
 This is a practice to get familiar with git.
+This is an edited line inside github environment.
